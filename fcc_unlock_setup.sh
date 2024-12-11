@@ -17,10 +17,10 @@ then
 fi
 
 ### Identify current OS
-OS_UBUNTU="Ubuntu"
+OS_UBUNTU="Linux Mint"
 OS_FEDORA="Fedora"
 ### Identify current OS
-OS_UBUNTU="Ubuntu"
+OS_UBUNTU="Linux Mint"
 OS_FEDORA="Fedora"
 
 source /etc/os-release
